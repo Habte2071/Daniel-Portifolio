@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Book store managment",
+    "image": "Bokstore.jpg",
+   
+    "category": "front end",
+    "tags": ["JavaScript", "PHP", "Bootstrap", "CSS"],
+    "description": "Developed a system for managing educational resources in a bookstore, allowing efficient tracking of inventory and student interactions."
+  },
+  {
+    "title": "Daniel's Portfolio",
+    "image": "home.png",
+
+    "category": "front end",
+    "tags": ["JavaScript", "Next.js", "Tailwind CSS", "github"],
+    "description": "Daniel's portfolio website. Not Complete Yet"
+  },
+  {
+    "title": "Exit Exam",
+    "image": "exit.jpg",
+ 
+    "category": "front end",
+    "tags": ["JavaScript", "React", "Next.js", "Tailwind CSS"],
+    "description": "Developed a robust online exam platform for evaluating student knowledge, featuring quiz creation, timed assessments, and instant feedback."
+  },
+  {
+    "title": "Clearance managment system",
+    "image": "Clearance.jpg",
+  
+    "category": "back end",
+    "tags": ["JavaScript", "React", "Next.js", "Tailwind CSS"],
+    "description": "Created a platform for managing surplus educational materials, enabling institutions to offer discounted resources to students and educators."
+  },
+  {
+    "title": "Tic-Tac-Toe game",
+    "image": "game.png",
+    
+    "category": "front end",
+    "tags": ["JavaScript", "React", "Next.js", "Tailwind CSS"],
+    "description": "Designed an interactive Tic-Tac-Toe game to enhance problem-solving skills, providing a fun way for students to engage with logic and strategy."
+  },
+  {
+    "title": "Authentication form",
+    "image": "auth.png",
+   
+    "category": "back end",
+    "tags": ["TypeScript", "React", "Next.js", "Tailwind CSS", "Express.js", "mysql"],
+    "description": "Implemented a secure authentication system for students and educators, facilitating easy access to educational content and resources."
+  }
+]

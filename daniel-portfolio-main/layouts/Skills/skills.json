@@ -1,0 +1,43 @@
+[
+  {
+    "category": "Frontend Skills",
+    "items": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Wordpress",
+      "UI/UX Design",
+      "Bootstrap"
+      
+    ]
+  },
+  {
+    "category": "Backend Technologies",
+    "items": [
+      "Node.js",
+      "mysql",
+      "Express.js",
+      "SQL",
+      "POSTGRESQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "category": "Software Development Tools",
+    "items": [
+      "Eclipse",
+      "intellij IDEA",
+      "Visual Studio code",
+      "ESLint",
+      "React Native",
+      "Git",
+      "GitHub",
+      "Vercel",
+      "Gitlab",
+      "VS Code"
+    ]
+  }
+]

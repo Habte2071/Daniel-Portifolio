@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased dark:bg-slate-950 dark:text-indigo-50;
+  }
+}
+
+/* Extra small devices (phones, 576px and down) */
+@media (max-width: 575.98px) {
+}
+
+/* Small devices (tablets, 576px and up) */
+@media (max-width: 767.98px) {
+}
+
+/* Medium devices (small laptops, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+
+/* Large devices (laptops, 992px and up) */
+@media (max-width: 1024px) {
+}
+
+/* Extra large devices (desktops, 1200px and up) */
+@media (max-width: 1280px) {
+}
+
+/* XXL devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
+
+@media (min-width: 1900px) {
+}
