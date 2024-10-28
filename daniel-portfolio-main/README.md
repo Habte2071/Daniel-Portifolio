@@ -1,4 +1,4 @@
-# Daniel Portfolio Website &nbsp;![License](https://img.shields.io/github/license/Daniel.E/Daniel-portfolio)
+# Daniel Portfolio
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -11,7 +11,6 @@ Licensed under the terms of the MIT license.
 
 ## 📧 Contact
 
-- **Website**: [www.ragibalasad.me](https://www.ragibalasad.me/)
 - **Email**: [danielelias@gmail.com](mailto:danielelias@gmail.com)
 - **LinkedIn**: [Daniel Elias](https://www.linkedin.com/in/ragibalasad/)
 
